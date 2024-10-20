@@ -1,1 +1,5 @@
-# Currency_Converter
+This project is a Currency Converter built using HTML, CSS, and JavaScript. It allows users to convert amounts between different currencies, providing real-time exchange rates. The converter enhances user experience by fetching country flags along with their respective currency codes through an external API, making it visually appealing and easy to identify currencies at a glance.
+
+The project integrates with a currency exchange API to fetch up-to-date conversion rates. Users can select currencies from dropdowns, displaying both the country flag and currency code. Upon entering the amount and selecting the desired currencies, the tool instantly calculates the equivalent value based on the latest rates.
+
+The application is responsive and optimized for different screen sizes, ensuring it works seamlessly across all the devices. This project demonstrates practical implementation of APIs and web development techniques while offering a useful tool for the currency conversions.
